@@ -1,0 +1,16 @@
+{
+  "name": "tp1.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geometrie.js",
+  "scripts": {
+    "test": "jest",
+    "start": "geometrie.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
